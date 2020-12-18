@@ -1,0 +1,16 @@
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\BuildClassQuadraticEquation.exe
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\BuildClassQuadraticEquation.deps.json
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\BuildClassQuadraticEquation.runtimeconfig.json
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\BuildClassQuadraticEquation.runtimeconfig.dev.json
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\BuildClassQuadraticEquation.dll
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\ref\BuildClassQuadraticEquation.dll
+D:\module2\Class\BuildClassQuadraticEquation\bin\Debug\net5.0\BuildClassQuadraticEquation.pdb
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.csprojAssemblyReference.cache
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.AssemblyInfoInputs.cache
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.AssemblyInfo.cs
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.csproj.CoreCompileInputs.cache
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.dll
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\ref\BuildClassQuadraticEquation.dll
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.pdb
+D:\module2\Class\BuildClassQuadraticEquation\obj\Debug\net5.0\BuildClassQuadraticEquation.genruntimeconfig.cache

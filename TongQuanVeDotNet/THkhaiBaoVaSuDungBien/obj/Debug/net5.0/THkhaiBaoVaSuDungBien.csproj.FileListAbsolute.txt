@@ -1,0 +1,16 @@
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\THkhaiBaoVaSuDungBien.exe
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\THkhaiBaoVaSuDungBien.deps.json
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\THkhaiBaoVaSuDungBien.runtimeconfig.json
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\THkhaiBaoVaSuDungBien.runtimeconfig.dev.json
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\THkhaiBaoVaSuDungBien.dll
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\ref\THkhaiBaoVaSuDungBien.dll
+D:\module2\THkhaiBaoVaSuDungBien\bin\Debug\net5.0\THkhaiBaoVaSuDungBien.pdb
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.csprojAssemblyReference.cache
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.AssemblyInfoInputs.cache
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.AssemblyInfo.cs
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.csproj.CoreCompileInputs.cache
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.dll
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\ref\THkhaiBaoVaSuDungBien.dll
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.pdb
+D:\module2\THkhaiBaoVaSuDungBien\obj\Debug\net5.0\THkhaiBaoVaSuDungBien.genruntimeconfig.cache

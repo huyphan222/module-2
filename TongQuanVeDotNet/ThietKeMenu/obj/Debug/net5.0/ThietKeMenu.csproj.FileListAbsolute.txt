@@ -1,0 +1,16 @@
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ThietKeMenu.exe
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ThietKeMenu.deps.json
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ThietKeMenu.runtimeconfig.json
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ThietKeMenu.runtimeconfig.dev.json
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ThietKeMenu.dll
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ref\ThietKeMenu.dll
+D:\module2\ThietKeMenu\bin\Debug\net5.0\ThietKeMenu.pdb
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.csprojAssemblyReference.cache
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.AssemblyInfoInputs.cache
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.AssemblyInfo.cs
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.csproj.CoreCompileInputs.cache
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.dll
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ref\ThietKeMenu.dll
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.pdb
+D:\module2\ThietKeMenu\obj\Debug\net5.0\ThietKeMenu.genruntimeconfig.cache

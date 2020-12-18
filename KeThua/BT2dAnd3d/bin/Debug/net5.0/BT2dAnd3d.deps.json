@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BT2dAnd3d/1.0.0": {
+        "runtime": {
+          "BT2dAnd3d.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT2dAnd3d/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

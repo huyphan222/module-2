@@ -1,0 +1,16 @@
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.csprojAssemblyReference.cache
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.AssemblyInfoInputs.cache
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.AssemblyInfo.cs
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.csproj.CoreCompileInputs.cache
+D:\module2\SystemTime\bin\Debug\net5.0\SystemTime.exe
+D:\module2\SystemTime\bin\Debug\net5.0\SystemTime.deps.json
+D:\module2\SystemTime\bin\Debug\net5.0\SystemTime.runtimeconfig.json
+D:\module2\SystemTime\bin\Debug\net5.0\SystemTime.runtimeconfig.dev.json
+D:\module2\SystemTime\bin\Debug\net5.0\SystemTime.dll
+D:\module2\SystemTime\bin\Debug\net5.0\ref\SystemTime.dll
+D:\module2\SystemTime\bin\Debug\net5.0\SystemTime.pdb
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.dll
+D:\module2\SystemTime\obj\Debug\net5.0\ref\SystemTime.dll
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.pdb
+D:\module2\SystemTime\obj\Debug\net5.0\SystemTime.genruntimeconfig.cache

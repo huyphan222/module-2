@@ -1,0 +1,16 @@
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.exe
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.deps.json
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.runtimeconfig.json
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.runtimeconfig.dev.json
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.dll
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\ref\THtimGiatriMinTrongMangBangPThuc.dll
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\bin\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.pdb
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.csprojAssemblyReference.cache
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.AssemblyInfoInputs.cache
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.AssemblyInfo.cs
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.csproj.CoreCompileInputs.cache
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.dll
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\ref\THtimGiatriMinTrongMangBangPThuc.dll
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.pdb
+D:\module2\Mang\THtimGiatriMinTrongMangBangPThuc\obj\Debug\net5.0\THtimGiatriMinTrongMangBangPThuc.genruntimeconfig.cache

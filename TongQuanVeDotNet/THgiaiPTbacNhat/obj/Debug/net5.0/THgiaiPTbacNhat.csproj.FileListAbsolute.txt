@@ -1,0 +1,16 @@
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\THgiaiPTbacNhat.exe
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\THgiaiPTbacNhat.deps.json
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\THgiaiPTbacNhat.runtimeconfig.json
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\THgiaiPTbacNhat.runtimeconfig.dev.json
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\THgiaiPTbacNhat.dll
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\ref\THgiaiPTbacNhat.dll
+D:\module2\THgiaiPTbacNhat\bin\Debug\net5.0\THgiaiPTbacNhat.pdb
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.csprojAssemblyReference.cache
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.AssemblyInfoInputs.cache
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.AssemblyInfo.cs
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.csproj.CoreCompileInputs.cache
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.dll
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\ref\THgiaiPTbacNhat.dll
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.pdb
+D:\module2\THgiaiPTbacNhat\obj\Debug\net5.0\THgiaiPTbacNhat.genruntimeconfig.cache

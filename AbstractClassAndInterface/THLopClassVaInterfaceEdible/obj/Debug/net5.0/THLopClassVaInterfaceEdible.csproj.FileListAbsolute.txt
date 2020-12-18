@@ -1,0 +1,16 @@
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\THLopClassVaInterfaceEdible.exe
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\THLopClassVaInterfaceEdible.deps.json
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\THLopClassVaInterfaceEdible.runtimeconfig.json
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\THLopClassVaInterfaceEdible.runtimeconfig.dev.json
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\THLopClassVaInterfaceEdible.dll
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\ref\THLopClassVaInterfaceEdible.dll
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\bin\Debug\net5.0\THLopClassVaInterfaceEdible.pdb
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.csprojAssemblyReference.cache
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.AssemblyInfoInputs.cache
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.AssemblyInfo.cs
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.csproj.CoreCompileInputs.cache
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.dll
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\ref\THLopClassVaInterfaceEdible.dll
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.pdb
+D:\module2\AbstractClassAndInterface\THLopClassVaInterfaceEdible\obj\Debug\net5.0\THLopClassVaInterfaceEdible.genruntimeconfig.cache

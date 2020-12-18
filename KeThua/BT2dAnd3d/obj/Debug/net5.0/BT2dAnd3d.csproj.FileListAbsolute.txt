@@ -1,0 +1,16 @@
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\BT2dAnd3d.exe
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\BT2dAnd3d.deps.json
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\BT2dAnd3d.runtimeconfig.json
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\BT2dAnd3d.runtimeconfig.dev.json
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\BT2dAnd3d.dll
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\ref\BT2dAnd3d.dll
+D:\module2\KeThua\BT2dAnd3d\bin\Debug\net5.0\BT2dAnd3d.pdb
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.csprojAssemblyReference.cache
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.AssemblyInfoInputs.cache
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.AssemblyInfo.cs
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.csproj.CoreCompileInputs.cache
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.dll
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\ref\BT2dAnd3d.dll
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.pdb
+D:\module2\KeThua\BT2dAnd3d\obj\Debug\net5.0\BT2dAnd3d.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module2\THdebug\bin\Debug\net5.0\THdebug.exe
+D:\module2\THdebug\bin\Debug\net5.0\THdebug.deps.json
+D:\module2\THdebug\bin\Debug\net5.0\THdebug.runtimeconfig.json
+D:\module2\THdebug\bin\Debug\net5.0\THdebug.runtimeconfig.dev.json
+D:\module2\THdebug\bin\Debug\net5.0\THdebug.dll
+D:\module2\THdebug\bin\Debug\net5.0\ref\THdebug.dll
+D:\module2\THdebug\bin\Debug\net5.0\THdebug.pdb
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.csprojAssemblyReference.cache
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.AssemblyInfoInputs.cache
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.AssemblyInfo.cs
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.csproj.CoreCompileInputs.cache
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.dll
+D:\module2\THdebug\obj\Debug\net5.0\ref\THdebug.dll
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.pdb
+D:\module2\THdebug\obj\Debug\net5.0\THdebug.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\THchuyenDoiNhietDo.exe
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\THchuyenDoiNhietDo.deps.json
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\THchuyenDoiNhietDo.runtimeconfig.json
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\THchuyenDoiNhietDo.runtimeconfig.dev.json
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\THchuyenDoiNhietDo.dll
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\ref\THchuyenDoiNhietDo.dll
+D:\module2\Mang\THchuyenDoiNhietDo\bin\Debug\net5.0\THchuyenDoiNhietDo.pdb
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.csprojAssemblyReference.cache
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.AssemblyInfoInputs.cache
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.AssemblyInfo.cs
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.dll
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\ref\THchuyenDoiNhietDo.dll
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.pdb
+D:\module2\Mang\THchuyenDoiNhietDo\obj\Debug\net5.0\THchuyenDoiNhietDo.genruntimeconfig.cache

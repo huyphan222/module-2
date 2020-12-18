@@ -1,0 +1,16 @@
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.csprojAssemblyReference.cache
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.AssemblyInfoInputs.cache
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.AssemblyInfo.cs
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.csproj.CoreCompileInputs.cache
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\THdaoNguocMang.exe
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\THdaoNguocMang.deps.json
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\THdaoNguocMang.runtimeconfig.json
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\THdaoNguocMang.runtimeconfig.dev.json
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\THdaoNguocMang.dll
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\ref\THdaoNguocMang.dll
+D:\module2\Mang\THdaoNguocMang\bin\Debug\net5.0\THdaoNguocMang.pdb
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.dll
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\ref\THdaoNguocMang.dll
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.pdb
+D:\module2\Mang\THdaoNguocMang\obj\Debug\net5.0\THdaoNguocMang.genruntimeconfig.cache

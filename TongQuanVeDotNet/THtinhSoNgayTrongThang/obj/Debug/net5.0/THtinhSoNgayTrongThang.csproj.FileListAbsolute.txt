@@ -1,0 +1,16 @@
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\THtinhSoNgayTrongThang.exe
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\THtinhSoNgayTrongThang.deps.json
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\THtinhSoNgayTrongThang.runtimeconfig.json
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\THtinhSoNgayTrongThang.runtimeconfig.dev.json
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\THtinhSoNgayTrongThang.dll
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\ref\THtinhSoNgayTrongThang.dll
+D:\module2\THtinhSoNgayTrongThang\bin\Debug\net5.0\THtinhSoNgayTrongThang.pdb
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.csprojAssemblyReference.cache
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.AssemblyInfoInputs.cache
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.AssemblyInfo.cs
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.csproj.CoreCompileInputs.cache
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.dll
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\ref\THtinhSoNgayTrongThang.dll
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.pdb
+D:\module2\THtinhSoNgayTrongThang\obj\Debug\net5.0\THtinhSoNgayTrongThang.genruntimeconfig.cache

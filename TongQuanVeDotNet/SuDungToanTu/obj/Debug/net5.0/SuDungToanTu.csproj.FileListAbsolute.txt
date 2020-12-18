@@ -1,0 +1,16 @@
+D:\module2\SuDungToanTu\bin\Debug\net5.0\SuDungToanTu.exe
+D:\module2\SuDungToanTu\bin\Debug\net5.0\SuDungToanTu.deps.json
+D:\module2\SuDungToanTu\bin\Debug\net5.0\SuDungToanTu.runtimeconfig.json
+D:\module2\SuDungToanTu\bin\Debug\net5.0\SuDungToanTu.runtimeconfig.dev.json
+D:\module2\SuDungToanTu\bin\Debug\net5.0\SuDungToanTu.dll
+D:\module2\SuDungToanTu\bin\Debug\net5.0\ref\SuDungToanTu.dll
+D:\module2\SuDungToanTu\bin\Debug\net5.0\SuDungToanTu.pdb
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.csprojAssemblyReference.cache
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.AssemblyInfoInputs.cache
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.AssemblyInfo.cs
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.csproj.CoreCompileInputs.cache
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.dll
+D:\module2\SuDungToanTu\obj\Debug\net5.0\ref\SuDungToanTu.dll
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.pdb
+D:\module2\SuDungToanTu\obj\Debug\net5.0\SuDungToanTu.genruntimeconfig.cache

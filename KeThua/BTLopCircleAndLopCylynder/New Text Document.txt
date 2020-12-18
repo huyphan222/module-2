@@ -1,0 +1,16 @@
+- tao lop hinh tron
+ + property
+	1:  ban kinh
+	2:  mauf sac
+	3:getter setter
+	
+	
+	4 dien tich
+	+ function : to string
+
+
+
++ tao lop con cylinder
+	property:
+		1:chieu cao
+		2:the tich

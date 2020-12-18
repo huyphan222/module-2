@@ -1,0 +1,16 @@
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.exe
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.deps.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.runtimeconfig.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.runtimeconfig.dev.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\ref\PhuongTrinhBacHai.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\bin\Debug\net5.0\PhuongTrinhBacHai.pdb
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.csprojAssemblyReference.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.AssemblyInfoInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.AssemblyInfo.cs
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\ref\PhuongTrinhBacHai.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.pdb
+D:\module2\AccessmodifierStaticMethodStaticproperty\PhuongTrinhBacHai\obj\Debug\net5.0\PhuongTrinhBacHai.genruntimeconfig.cache

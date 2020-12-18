@@ -1,0 +1,16 @@
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\BTdocSoThanhChu.exe
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\BTdocSoThanhChu.deps.json
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\BTdocSoThanhChu.runtimeconfig.json
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\BTdocSoThanhChu.runtimeconfig.dev.json
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\BTdocSoThanhChu.dll
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\ref\BTdocSoThanhChu.dll
+D:\module2\BTdocSoThanhChu\bin\Debug\net5.0\BTdocSoThanhChu.pdb
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.csprojAssemblyReference.cache
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.AssemblyInfoInputs.cache
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.AssemblyInfo.cs
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.csproj.CoreCompileInputs.cache
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.dll
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\ref\BTdocSoThanhChu.dll
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.pdb
+D:\module2\BTdocSoThanhChu\obj\Debug\net5.0\BTdocSoThanhChu.genruntimeconfig.cache

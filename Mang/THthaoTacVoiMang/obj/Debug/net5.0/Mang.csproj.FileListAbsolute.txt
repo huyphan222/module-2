@@ -1,0 +1,16 @@
+D:\module2\Mang\bin\Debug\net5.0\Mang.exe
+D:\module2\Mang\bin\Debug\net5.0\Mang.deps.json
+D:\module2\Mang\bin\Debug\net5.0\Mang.runtimeconfig.json
+D:\module2\Mang\bin\Debug\net5.0\Mang.runtimeconfig.dev.json
+D:\module2\Mang\bin\Debug\net5.0\Mang.dll
+D:\module2\Mang\bin\Debug\net5.0\ref\Mang.dll
+D:\module2\Mang\bin\Debug\net5.0\Mang.pdb
+D:\module2\Mang\obj\Debug\net5.0\Mang.csprojAssemblyReference.cache
+D:\module2\Mang\obj\Debug\net5.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Mang\obj\Debug\net5.0\Mang.AssemblyInfoInputs.cache
+D:\module2\Mang\obj\Debug\net5.0\Mang.AssemblyInfo.cs
+D:\module2\Mang\obj\Debug\net5.0\Mang.csproj.CoreCompileInputs.cache
+D:\module2\Mang\obj\Debug\net5.0\Mang.dll
+D:\module2\Mang\obj\Debug\net5.0\ref\Mang.dll
+D:\module2\Mang\obj\Debug\net5.0\Mang.pdb
+D:\module2\Mang\obj\Debug\net5.0\Mang.genruntimeconfig.cache

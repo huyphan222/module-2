@@ -1,0 +1,16 @@
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\BThienThiLoiChao.exe
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\BThienThiLoiChao.deps.json
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\BThienThiLoiChao.runtimeconfig.json
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\BThienThiLoiChao.runtimeconfig.dev.json
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\BThienThiLoiChao.dll
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\ref\BThienThiLoiChao.dll
+D:\module2\BThienThiLoiChao\bin\Debug\net5.0\BThienThiLoiChao.pdb
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.csprojAssemblyReference.cache
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.AssemblyInfoInputs.cache
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.AssemblyInfo.cs
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.csproj.CoreCompileInputs.cache
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.dll
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\ref\BThienThiLoiChao.dll
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.pdb
+D:\module2\BThienThiLoiChao\obj\Debug\net5.0\BThienThiLoiChao.genruntimeconfig.cache

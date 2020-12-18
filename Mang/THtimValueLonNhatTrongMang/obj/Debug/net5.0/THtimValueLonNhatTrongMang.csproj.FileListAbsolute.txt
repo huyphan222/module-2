@@ -1,0 +1,16 @@
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\THtimValueLonNhatTrongMang.exe
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\THtimValueLonNhatTrongMang.deps.json
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\THtimValueLonNhatTrongMang.runtimeconfig.json
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\THtimValueLonNhatTrongMang.runtimeconfig.dev.json
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\THtimValueLonNhatTrongMang.dll
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\ref\THtimValueLonNhatTrongMang.dll
+D:\module2\Mang\THtimValueLonNhatTrongMang\bin\Debug\net5.0\THtimValueLonNhatTrongMang.pdb
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.csprojAssemblyReference.cache
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.AssemblyInfoInputs.cache
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.AssemblyInfo.cs
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.csproj.CoreCompileInputs.cache
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.dll
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\ref\THtimValueLonNhatTrongMang.dll
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.pdb
+D:\module2\Mang\THtimValueLonNhatTrongMang\obj\Debug\net5.0\THtimValueLonNhatTrongMang.genruntimeconfig.cache

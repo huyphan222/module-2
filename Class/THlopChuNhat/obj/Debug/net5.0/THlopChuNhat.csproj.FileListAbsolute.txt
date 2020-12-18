@@ -1,0 +1,16 @@
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\THlopChuNhat.exe
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\THlopChuNhat.deps.json
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\THlopChuNhat.runtimeconfig.json
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\THlopChuNhat.runtimeconfig.dev.json
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\THlopChuNhat.dll
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\ref\THlopChuNhat.dll
+D:\module2\Class\THlopChuNhat\bin\Debug\net5.0\THlopChuNhat.pdb
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.csprojAssemblyReference.cache
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.AssemblyInfoInputs.cache
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.AssemblyInfo.cs
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.csproj.CoreCompileInputs.cache
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.dll
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\ref\THlopChuNhat.dll
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.pdb
+D:\module2\Class\THlopChuNhat\obj\Debug\net5.0\THlopChuNhat.genruntimeconfig.cache

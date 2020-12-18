@@ -1,0 +1,16 @@
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\THStaticMeThod.exe
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\THStaticMeThod.deps.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\THStaticMeThod.runtimeconfig.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\THStaticMeThod.runtimeconfig.dev.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\THStaticMeThod.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\ref\THStaticMeThod.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\bin\Debug\net5.0\THStaticMeThod.pdb
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.csprojAssemblyReference.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.AssemblyInfoInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.AssemblyInfo.cs
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.csproj.CoreCompileInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\ref\THStaticMeThod.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.pdb
+D:\module2\AccessmodifierStaticMethodStaticproperty\THStaticMeThod\obj\Debug\net5.0\THStaticMeThod.genruntimeconfig.cache

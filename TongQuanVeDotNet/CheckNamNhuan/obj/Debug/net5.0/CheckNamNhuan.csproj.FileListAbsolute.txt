@@ -1,0 +1,16 @@
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\CheckNamNhuan.exe
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\CheckNamNhuan.deps.json
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\CheckNamNhuan.runtimeconfig.json
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\CheckNamNhuan.runtimeconfig.dev.json
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\CheckNamNhuan.dll
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\ref\CheckNamNhuan.dll
+D:\module2\CheckNamNhuan\bin\Debug\net5.0\CheckNamNhuan.pdb
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.csprojAssemblyReference.cache
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.AssemblyInfoInputs.cache
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.AssemblyInfo.cs
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.csproj.CoreCompileInputs.cache
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.dll
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\ref\CheckNamNhuan.dll
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.pdb
+D:\module2\CheckNamNhuan\obj\Debug\net5.0\CheckNamNhuan.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.csprojAssemblyReference.cache
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.AssemblyInfoInputs.cache
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.AssemblyInfo.cs
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.csproj.CoreCompileInputs.cache
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\THHeCacDoiTuongHinhHoc.exe
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\THHeCacDoiTuongHinhHoc.deps.json
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\THHeCacDoiTuongHinhHoc.runtimeconfig.json
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\THHeCacDoiTuongHinhHoc.runtimeconfig.dev.json
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\THHeCacDoiTuongHinhHoc.dll
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\ref\THHeCacDoiTuongHinhHoc.dll
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\bin\Debug\net5.0\THHeCacDoiTuongHinhHoc.pdb
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.dll
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\ref\THHeCacDoiTuongHinhHoc.dll
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.pdb
+D:\module2\KeThua\THHeCacDoiTuongHinhHoc\obj\Debug\net5.0\THHeCacDoiTuongHinhHoc.genruntimeconfig.cache

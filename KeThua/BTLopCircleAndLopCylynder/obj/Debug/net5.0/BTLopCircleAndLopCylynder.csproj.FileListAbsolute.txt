@@ -1,0 +1,16 @@
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\BTLopCircleAndLopCylynder.exe
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\BTLopCircleAndLopCylynder.deps.json
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\BTLopCircleAndLopCylynder.runtimeconfig.json
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\BTLopCircleAndLopCylynder.runtimeconfig.dev.json
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\BTLopCircleAndLopCylynder.dll
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\ref\BTLopCircleAndLopCylynder.dll
+D:\module2\KeThua\BTLopCircleAndLopCylynder\bin\Debug\net5.0\BTLopCircleAndLopCylynder.pdb
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.csprojAssemblyReference.cache
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.AssemblyInfoInputs.cache
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.AssemblyInfo.cs
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.csproj.CoreCompileInputs.cache
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.dll
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\ref\BTLopCircleAndLopCylynder.dll
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.pdb
+D:\module2\KeThua\BTLopCircleAndLopCylynder\obj\Debug\net5.0\BTLopCircleAndLopCylynder.genruntimeconfig.cache

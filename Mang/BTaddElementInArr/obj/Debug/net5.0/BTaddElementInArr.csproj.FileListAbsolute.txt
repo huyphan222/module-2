@@ -1,0 +1,16 @@
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\BTaddElementInArr.exe
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\BTaddElementInArr.deps.json
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\BTaddElementInArr.runtimeconfig.json
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\BTaddElementInArr.runtimeconfig.dev.json
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\BTaddElementInArr.dll
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\ref\BTaddElementInArr.dll
+D:\module2\Mang\BTaddElementInArr\bin\Debug\net5.0\BTaddElementInArr.pdb
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.csprojAssemblyReference.cache
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.AssemblyInfoInputs.cache
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.AssemblyInfo.cs
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.csproj.CoreCompileInputs.cache
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.dll
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\ref\BTaddElementInArr.dll
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.pdb
+D:\module2\Mang\BTaddElementInArr\obj\Debug\net5.0\BTaddElementInArr.genruntimeconfig.cache

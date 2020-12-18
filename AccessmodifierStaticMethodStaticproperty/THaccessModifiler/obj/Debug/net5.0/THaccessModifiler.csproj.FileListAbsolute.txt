@@ -1,0 +1,5 @@
+D:\module2\AccessmodifierStaticMethodStaticproperty\THaccessModifiler\obj\Debug\net5.0\THaccessModifiler.csprojAssemblyReference.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THaccessModifiler\obj\Debug\net5.0\THaccessModifiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\AccessmodifierStaticMethodStaticproperty\THaccessModifiler\obj\Debug\net5.0\THaccessModifiler.AssemblyInfoInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THaccessModifiler\obj\Debug\net5.0\THaccessModifiler.AssemblyInfo.cs
+D:\module2\AccessmodifierStaticMethodStaticproperty\THaccessModifiler\obj\Debug\net5.0\THaccessModifiler.csproj.CoreCompileInputs.cache

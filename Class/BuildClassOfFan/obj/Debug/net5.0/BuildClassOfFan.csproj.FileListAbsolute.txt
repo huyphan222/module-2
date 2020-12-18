@@ -1,0 +1,16 @@
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\BuildClassOfFan.exe
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\BuildClassOfFan.deps.json
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\BuildClassOfFan.runtimeconfig.json
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\BuildClassOfFan.runtimeconfig.dev.json
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\BuildClassOfFan.dll
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\ref\BuildClassOfFan.dll
+D:\module2\Class\BuildClassOfFan\bin\Debug\net5.0\BuildClassOfFan.pdb
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.csprojAssemblyReference.cache
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.AssemblyInfoInputs.cache
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.AssemblyInfo.cs
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.csproj.CoreCompileInputs.cache
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.dll
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\ref\BuildClassOfFan.dll
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.pdb
+D:\module2\Class\BuildClassOfFan\obj\Debug\net5.0\BuildClassOfFan.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\THXayDungLopAnimal.exe
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\THXayDungLopAnimal.deps.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\THXayDungLopAnimal.runtimeconfig.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\THXayDungLopAnimal.runtimeconfig.dev.json
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\THXayDungLopAnimal.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\ref\THXayDungLopAnimal.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\bin\Debug\net5.0\THXayDungLopAnimal.pdb
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.csprojAssemblyReference.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.AssemblyInfoInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.AssemblyInfo.cs
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.csproj.CoreCompileInputs.cache
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\ref\THXayDungLopAnimal.dll
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.pdb
+D:\module2\AccessmodifierStaticMethodStaticproperty\THXayDungLopAnimal\obj\Debug\net5.0\THXayDungLopAnimal.genruntimeconfig.cache
