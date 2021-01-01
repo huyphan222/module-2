@@ -1,0 +1,16 @@
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\BTDaoNguocPhanTuBangStack.exe
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\BTDaoNguocPhanTuBangStack.deps.json
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\BTDaoNguocPhanTuBangStack.runtimeconfig.json
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\BTDaoNguocPhanTuBangStack.runtimeconfig.dev.json
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\BTDaoNguocPhanTuBangStack.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\ref\BTDaoNguocPhanTuBangStack.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\bin\Debug\net5.0\BTDaoNguocPhanTuBangStack.pdb
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.csprojAssemblyReference.cache
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.AssemblyInfoInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.AssemblyInfo.cs
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.csproj.CoreCompileInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\ref\BTDaoNguocPhanTuBangStack.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.pdb
+D:\module-2\CauTrucDuLieuStackQueue\BTDaoNguocPhanTuBangStack\obj\Debug\net5.0\BTDaoNguocPhanTuBangStack.genruntimeconfig.cache
