@@ -1,0 +1,16 @@
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\THLinkedListTrongCollection.exe
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\THLinkedListTrongCollection.deps.json
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\THLinkedListTrongCollection.runtimeconfig.json
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\THLinkedListTrongCollection.runtimeconfig.dev.json
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\THLinkedListTrongCollection.dll
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\ref\THLinkedListTrongCollection.dll
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\bin\Debug\net5.0\THLinkedListTrongCollection.pdb
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.csprojAssemblyReference.cache
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.AssemblyInfoInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.AssemblyInfo.cs
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.csproj.CoreCompileInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.dll
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\ref\THLinkedListTrongCollection.dll
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.pdb
+D:\module-2\CauTrucDuLieuStackQueue\THLinkedListTrongCollection\obj\Debug\net5.0\THLinkedListTrongCollection.genruntimeconfig.cache

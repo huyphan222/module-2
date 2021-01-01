@@ -1,0 +1,16 @@
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.exe
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.deps.json
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.runtimeconfig.json
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.runtimeconfig.dev.json
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.dll
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\ref\THDictionaryThemSuaXoaTimkiem.dll
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\bin\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.pdb
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.csprojAssemblyReference.cache
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.AssemblyInfoInputs.cache
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.AssemblyInfo.cs
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.csproj.CoreCompileInputs.cache
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.dll
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\ref\THDictionaryThemSuaXoaTimkiem.dll
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.pdb
+D:\module-2\Net Collection\THDictionaryThemSuaXoaTimkiem\obj\Debug\net5.0\THDictionaryThemSuaXoaTimkiem.genruntimeconfig.cache

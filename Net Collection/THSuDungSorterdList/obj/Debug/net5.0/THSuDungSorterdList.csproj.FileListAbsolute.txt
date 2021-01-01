@@ -1,0 +1,16 @@
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\THSuDungSorterdList.exe
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\THSuDungSorterdList.deps.json
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\THSuDungSorterdList.runtimeconfig.json
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\THSuDungSorterdList.runtimeconfig.dev.json
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\THSuDungSorterdList.dll
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\ref\THSuDungSorterdList.dll
+D:\module-2\Net Collection\THSuDungSorterdList\bin\Debug\net5.0\THSuDungSorterdList.pdb
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.csprojAssemblyReference.cache
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.AssemblyInfoInputs.cache
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.AssemblyInfo.cs
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.csproj.CoreCompileInputs.cache
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.dll
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\ref\THSuDungSorterdList.dll
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.pdb
+D:\module-2\Net Collection\THSuDungSorterdList\obj\Debug\net5.0\THSuDungSorterdList.genruntimeconfig.cache

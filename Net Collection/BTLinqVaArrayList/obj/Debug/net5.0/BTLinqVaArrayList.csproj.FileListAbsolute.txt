@@ -1,0 +1,16 @@
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\BTLinqVaArrayList.exe
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\BTLinqVaArrayList.deps.json
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\BTLinqVaArrayList.runtimeconfig.json
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\BTLinqVaArrayList.runtimeconfig.dev.json
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\BTLinqVaArrayList.dll
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\ref\BTLinqVaArrayList.dll
+D:\module-2\Net Collection\BTLinqVaArrayList\bin\Debug\net5.0\BTLinqVaArrayList.pdb
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.csprojAssemblyReference.cache
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.AssemblyInfoInputs.cache
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.AssemblyInfo.cs
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.csproj.CoreCompileInputs.cache
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.dll
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\ref\BTLinqVaArrayList.dll
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.pdb
+D:\module-2\Net Collection\BTLinqVaArrayList\obj\Debug\net5.0\BTLinqVaArrayList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\CauTrucDuLieuStackQueue.exe
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\CauTrucDuLieuStackQueue.deps.json
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\CauTrucDuLieuStackQueue.runtimeconfig.json
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\CauTrucDuLieuStackQueue.runtimeconfig.dev.json
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\CauTrucDuLieuStackQueue.dll
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\ref\CauTrucDuLieuStackQueue.dll
+D:\module-2\CauTrucDuLieuStackQueue\bin\Debug\net5.0\CauTrucDuLieuStackQueue.pdb
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.csprojAssemblyReference.cache
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.AssemblyInfoInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.AssemblyInfo.cs
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.csproj.CoreCompileInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.dll
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\ref\CauTrucDuLieuStackQueue.dll
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.pdb
+D:\module-2\CauTrucDuLieuStackQueue\obj\Debug\net5.0\CauTrucDuLieuStackQueue.genruntimeconfig.cache

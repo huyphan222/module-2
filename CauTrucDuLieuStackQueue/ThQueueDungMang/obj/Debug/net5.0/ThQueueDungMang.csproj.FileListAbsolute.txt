@@ -1,0 +1,16 @@
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ThQueueDungMang.exe
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ThQueueDungMang.deps.json
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ThQueueDungMang.runtimeconfig.json
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ThQueueDungMang.runtimeconfig.dev.json
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ThQueueDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ref\ThQueueDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\bin\Debug\net5.0\ThQueueDungMang.pdb
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.csprojAssemblyReference.cache
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.AssemblyInfoInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.AssemblyInfo.cs
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.csproj.CoreCompileInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ref\ThQueueDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.pdb
+D:\module-2\CauTrucDuLieuStackQueue\ThQueueDungMang\obj\Debug\net5.0\ThQueueDungMang.genruntimeconfig.cache

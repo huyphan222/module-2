@@ -1,0 +1,16 @@
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\THTrienKhaiStackSuDungMang.exe
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\THTrienKhaiStackSuDungMang.deps.json
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\THTrienKhaiStackSuDungMang.runtimeconfig.json
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\THTrienKhaiStackSuDungMang.runtimeconfig.dev.json
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\THTrienKhaiStackSuDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\ref\THTrienKhaiStackSuDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\bin\Debug\net5.0\THTrienKhaiStackSuDungMang.pdb
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.csprojAssemblyReference.cache
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.AssemblyInfoInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.AssemblyInfo.cs
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.csproj.CoreCompileInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\ref\THTrienKhaiStackSuDungMang.dll
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.pdb
+D:\module-2\CauTrucDuLieuStackQueue\THTrienKhaiStackSuDungMang\obj\Debug\net5.0\THTrienKhaiStackSuDungMang.genruntimeconfig.cache
