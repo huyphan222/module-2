@@ -1,0 +1,16 @@
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\THCaiDatSapXepChen.exe
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\THCaiDatSapXepChen.deps.json
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\THCaiDatSapXepChen.runtimeconfig.json
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\THCaiDatSapXepChen.runtimeconfig.dev.json
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\THCaiDatSapXepChen.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\ref\THCaiDatSapXepChen.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\bin\Debug\net5.0\THCaiDatSapXepChen.pdb
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.csprojAssemblyReference.cache
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.AssemblyInfoInputs.cache
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.AssemblyInfo.cs
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.csproj.CoreCompileInputs.cache
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\ref\THCaiDatSapXepChen.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.pdb
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepChen\obj\Debug\net5.0\THCaiDatSapXepChen.genruntimeconfig.cache

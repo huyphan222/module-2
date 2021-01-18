@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xf7PfYbg3lvTR1sr36xvZwn0q5EaW7OB0HjIpZZPbD1igmKn01E+GkSVwTsaMlYF95N4vynJTg48aqJPAhj1xw==",
+  "success": true,
+  "projectFilePath": "D:\\module-2\\FileSerializedtion\\THDocFileGhiFileXml\\THDocFileGhiFileXml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

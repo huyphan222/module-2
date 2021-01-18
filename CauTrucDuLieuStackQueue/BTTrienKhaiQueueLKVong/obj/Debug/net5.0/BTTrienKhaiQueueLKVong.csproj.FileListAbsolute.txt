@@ -1,0 +1,16 @@
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\BTTrienKhaiQueueLKVong.exe
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\BTTrienKhaiQueueLKVong.deps.json
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\BTTrienKhaiQueueLKVong.runtimeconfig.json
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\BTTrienKhaiQueueLKVong.runtimeconfig.dev.json
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\BTTrienKhaiQueueLKVong.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\ref\BTTrienKhaiQueueLKVong.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\bin\Debug\net5.0\BTTrienKhaiQueueLKVong.pdb
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.csprojAssemblyReference.cache
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.AssemblyInfoInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.AssemblyInfo.cs
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.csproj.CoreCompileInputs.cache
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\ref\BTTrienKhaiQueueLKVong.dll
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.pdb
+D:\module-2\CauTrucDuLieuStackQueue\BTTrienKhaiQueueLKVong\obj\Debug\net5.0\BTTrienKhaiQueueLKVong.genruntimeconfig.cache

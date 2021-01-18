@@ -1,0 +1,16 @@
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\THSuDungLopIndexOutOfRangeException.exe
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\THSuDungLopIndexOutOfRangeException.deps.json
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\THSuDungLopIndexOutOfRangeException.runtimeconfig.json
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\THSuDungLopIndexOutOfRangeException.runtimeconfig.dev.json
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\THSuDungLopIndexOutOfRangeException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\ref\THSuDungLopIndexOutOfRangeException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\bin\Debug\net5.0\THSuDungLopIndexOutOfRangeException.pdb
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.csprojAssemblyReference.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.AssemblyInfoInputs.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.AssemblyInfo.cs
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\ref\THSuDungLopIndexOutOfRangeException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.pdb
+D:\module-2\XuLyNgoaiLe\THSuDungLopIndexOutOfRangeException\obj\Debug\net5.0\THSuDungLopIndexOutOfRangeException.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.exe
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.deps.json
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.runtimeconfig.json
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.runtimeconfig.dev.json
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.dll
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\ref\BTKhoiTaoHamSuDungGeneric.dll
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\bin\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.pdb
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.csprojAssemblyReference.cache
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.AssemblyInfoInputs.cache
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.AssemblyInfo.cs
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.csproj.CoreCompileInputs.cache
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.dll
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\ref\BTKhoiTaoHamSuDungGeneric.dll
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.pdb
+D:\module-2\Net Collection\BTKhoiTaoHamSuDungGeneric\obj\Debug\net5.0\BTKhoiTaoHamSuDungGeneric.genruntimeconfig.cache

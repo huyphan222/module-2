@@ -1,0 +1,16 @@
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\THCaiDatSapXepNoiBot.exe
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\THCaiDatSapXepNoiBot.deps.json
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\THCaiDatSapXepNoiBot.runtimeconfig.json
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\THCaiDatSapXepNoiBot.runtimeconfig.dev.json
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\THCaiDatSapXepNoiBot.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\ref\THCaiDatSapXepNoiBot.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\bin\Debug\net5.0\THCaiDatSapXepNoiBot.pdb
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.csprojAssemblyReference.cache
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.AssemblyInfoInputs.cache
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.AssemblyInfo.cs
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.csproj.CoreCompileInputs.cache
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\ref\THCaiDatSapXepNoiBot.dll
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.pdb
+D:\module-2\ThuatToanSapXep\THCaiDatSapXepNoiBot\obj\Debug\net5.0\THCaiDatSapXepNoiBot.genruntimeconfig.cache

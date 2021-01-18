@@ -1,0 +1,16 @@
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.exe
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.deps.json
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.runtimeconfig.json
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.runtimeconfig.dev.json
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.dll
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\ref\BTThuatToanNhiPhanSuDungDeQuy.dll
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\bin\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.pdb
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.csprojAssemblyReference.cache
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.AssemblyInfoInputs.cache
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.AssemblyInfo.cs
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.csproj.CoreCompileInputs.cache
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.dll
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\ref\BTThuatToanNhiPhanSuDungDeQuy.dll
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.pdb
+D:\module-2\ThuatToanTimKiem\BTThuatToanNhiPhanSuDungDeQuy\obj\Debug\net5.0\BTThuatToanNhiPhanSuDungDeQuy.genruntimeconfig.cache

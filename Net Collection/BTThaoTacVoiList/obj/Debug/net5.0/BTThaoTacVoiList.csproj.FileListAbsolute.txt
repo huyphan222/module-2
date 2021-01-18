@@ -1,0 +1,16 @@
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\BTThaoTacVoiList.exe
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\BTThaoTacVoiList.deps.json
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\BTThaoTacVoiList.runtimeconfig.json
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\BTThaoTacVoiList.runtimeconfig.dev.json
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\BTThaoTacVoiList.dll
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\ref\BTThaoTacVoiList.dll
+D:\module-2\Net Collection\BTThaoTacVoiList\bin\Debug\net5.0\BTThaoTacVoiList.pdb
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.csprojAssemblyReference.cache
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.AssemblyInfoInputs.cache
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.AssemblyInfo.cs
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.csproj.CoreCompileInputs.cache
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.dll
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\ref\BTThaoTacVoiList.dll
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.pdb
+D:\module-2\Net Collection\BTThaoTacVoiList\obj\Debug\net5.0\BTThaoTacVoiList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\THSuDungLop FileNotFoundException.exe
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\THSuDungLop FileNotFoundException.deps.json
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\THSuDungLop FileNotFoundException.runtimeconfig.json
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\THSuDungLop FileNotFoundException.runtimeconfig.dev.json
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\THSuDungLop FileNotFoundException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\ref\THSuDungLop FileNotFoundException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\bin\Debug\net5.0\THSuDungLop FileNotFoundException.pdb
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.csprojAssemblyReference.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.AssemblyInfoInputs.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.AssemblyInfo.cs
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.csproj.CoreCompileInputs.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\ref\THSuDungLop FileNotFoundException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.pdb
+D:\module-2\XuLyNgoaiLe\THSuDungLop FileNotFoundException\obj\Debug\net5.0\THSuDungLop FileNotFoundException.genruntimeconfig.cache

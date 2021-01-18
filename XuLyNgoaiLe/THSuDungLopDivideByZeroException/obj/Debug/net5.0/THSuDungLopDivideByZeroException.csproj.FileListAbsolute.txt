@@ -1,0 +1,16 @@
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\THSuDungLopDivideByZeroException.exe
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\THSuDungLopDivideByZeroException.deps.json
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\THSuDungLopDivideByZeroException.runtimeconfig.json
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\THSuDungLopDivideByZeroException.runtimeconfig.dev.json
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\THSuDungLopDivideByZeroException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\ref\THSuDungLopDivideByZeroException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\bin\Debug\net5.0\THSuDungLopDivideByZeroException.pdb
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.csprojAssemblyReference.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.AssemblyInfoInputs.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.AssemblyInfo.cs
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.csproj.CoreCompileInputs.cache
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\ref\THSuDungLopDivideByZeroException.dll
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.pdb
+D:\module-2\XuLyNgoaiLe\THSuDungLopDivideByZeroException\obj\Debug\net5.0\THSuDungLopDivideByZeroException.genruntimeconfig.cache

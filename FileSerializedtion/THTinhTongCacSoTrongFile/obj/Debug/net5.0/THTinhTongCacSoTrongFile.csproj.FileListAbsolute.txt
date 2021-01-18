@@ -1,0 +1,16 @@
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\THTinhTongCacSoTrongFile.exe
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\THTinhTongCacSoTrongFile.deps.json
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\THTinhTongCacSoTrongFile.runtimeconfig.json
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\THTinhTongCacSoTrongFile.runtimeconfig.dev.json
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\THTinhTongCacSoTrongFile.dll
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\ref\THTinhTongCacSoTrongFile.dll
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\bin\Debug\net5.0\THTinhTongCacSoTrongFile.pdb
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.csprojAssemblyReference.cache
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.AssemblyInfoInputs.cache
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.AssemblyInfo.cs
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.csproj.CoreCompileInputs.cache
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.dll
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\ref\THTinhTongCacSoTrongFile.dll
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.pdb
+D:\module-2\FileSerializedtion\THTinhTongCacSoTrongFile\obj\Debug\net5.0\THTinhTongCacSoTrongFile.genruntimeconfig.cache
